@@ -3,11 +3,11 @@ body {
   background-color: #e5e5e5;
 }
 .scelet {
-  position: absolute;
+  /* position: absolute; */
   width: 1200px;
   height: 1319px;
-  left: 40px;
-  top: 40px;
+  margin-left: auto;
+  margin-right: auto;
 }
 /* main styles */
 .main {
