@@ -87,13 +87,14 @@ body {
 .projects_list {
   padding: 0;
   margin: left 15px;
+  /* list-style: none; */
 }
 
 .projects_item {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 28px;
+  line-height: 1.71;
   color: #000000;
   margin-left: 15px;
 }
@@ -102,8 +103,8 @@ body {
 .project_link {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 36px;
+  line-height: 1.71;
   color: #595959;
 }
 
@@ -114,8 +115,8 @@ body {
 .project_bracket {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 36px;
+  line-height: 1.71;
   color: #000000;
 }
 
