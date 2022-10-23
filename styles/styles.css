@@ -202,7 +202,7 @@ body {
 /* slidebar styles */
 
 .slidebar {
-  background-color: #1e2939;
+  background-color: #41474f;
   /* padding-top: 40px; */
   width: 370px;
 }
@@ -245,7 +245,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #565e6a;
+  color: rgb(228, 66, 128);
 }
 
 .tech_skills_list,
