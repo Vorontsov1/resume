@@ -86,6 +86,7 @@ body {
 }
 
 .projects_list {
+  list-style: none;
   padding: 0;
   margin: left 15px;
   /* list-style: none; */
