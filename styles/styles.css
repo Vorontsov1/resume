@@ -64,17 +64,6 @@ body {
 
 .projects {
   margin-bottom: 50px;
-  /* background-color: yellowgreen;
-    margin-top: 100px;
-    margin-bottom: 300px;
-    margin-left: 60px;
-    margin-right: 90px; */
-
-  /* margin: 100px 90px 300px 60px;
-
-    margin: 50px;
-
-    margin: 100px 50px;  */
 }
 
 .title {
@@ -188,6 +177,10 @@ body {
 }
 
 /* education styles  */
+.about {
+  list-style-type: none;
+}
+
 .education {
 
   font-style: normal;
