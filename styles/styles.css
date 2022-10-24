@@ -2,6 +2,7 @@ body {
   font-family: "Montserrat", sans-serif;
   background-color: #e5e5e5;
 }
+
 .scelet {
   /* position: absolute; */
   width: 1200px;
@@ -9,6 +10,7 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
 /* main styles */
 .main {
   display: flex;
@@ -29,6 +31,7 @@ body {
   margin-bottom: 40px;
   /* background-color: tomato; */
 }
+
 .about_position {
   font-style: normal;
   font-weight: bold;
@@ -136,6 +139,7 @@ body {
 
     padding: 50px 100px; */
 }
+
 .work_position {
   font-style: normal;
   font-weight: bold;
@@ -144,6 +148,7 @@ body {
   color: #000000;
   margin-bottom: 10px;
 }
+
 .organization {
   font-style: normal;
   font-weight: bold;
@@ -151,6 +156,7 @@ body {
   line-height: 20px;
   color: #fb6d3a;
 }
+
 .period {
   font-style: normal;
   font-weight: normal;
@@ -159,6 +165,7 @@ body {
   color: #a8a8a8;
   margin-bottom: 10px;
 }
+
 .line {
   font-style: normal;
   font-weight: normal;
@@ -166,10 +173,12 @@ body {
   line-height: 15px;
   color: #000;
 }
+
 .work_list {
   padding: 0;
   margin-left: 15px;
 }
+
 .work_list_item {
   font-style: normal;
   font-weight: normal;
@@ -180,20 +189,16 @@ body {
 
 /* education styles  */
 .education {
+
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
   color: #fb6d3a;
-
-  /* background-color: seagreen;
-    padding-top: 100px;
-    padding-bottom: 50px;
-    padding-left: 20px;
-    padding-right: 40px; */
 }
 
 .education_facultry {
+
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -234,7 +239,7 @@ body {
 }
 
 .contact_type {
-  color: #ffffff;
+  color: rgb(182, 235, 24);
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -248,6 +253,12 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: rgb(182, 235, 24);
+}
+
+.counrty {
+  color: rgb(182, 235, 24);
+  margin-left: 10px;
+}
 }
 
 .tech_skills_list,
